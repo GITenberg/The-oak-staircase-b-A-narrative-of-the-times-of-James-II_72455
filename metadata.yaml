@@ -1,0 +1,48 @@
+_repo: The-oak-staircase-b-A-narrative-of-the-times-of-James-II_72455
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Symington, James Ayton
+    aliases:
+    - Symington, J. A. (James Ayton)
+    - Symington, J. Ayton
+    deathdate: 1939
+    gutenberg_agent_id: '40339'
+    url: http://www.gutenberg.org/2009/agents/40339
+    wikipedia: https://en.wikipedia.org/wiki/James_Ayton_Symington
+creator:
+  authors:
+  - agent_name: Lee, C. (Catherine), active 1867-1892
+    alias: Lee, Catherine
+    gutenberg_agent_id: '56688'
+    url: http://www.gutenberg.org/2009/agents/56688
+  - agent_name: Lee, M. (Mary), active 1867-1892
+    alias: Lee, Mary
+    gutenberg_agent_id: '56687'
+    url: http://www.gutenberg.org/2009/agents/56687
+description: ''
+gutenberg_issued: '2023-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72455'
+language: en
+pgterms:marc905: 20231207163001lee
+pgterms:marc906: '1900'
+pgterms:marc907: gb
+production_note: Al Haines
+publication_note: '  $aLondon :$bGriffith Farran Browne & Co. Limited, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Siblings -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Storytelling -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- James II, 1685-1688 -- Juvenile fiction'
+- !lcsh 'Husband and wife -- Juvenile fiction'
+- !lcsh 'Monmouth''s Rebellion, 1685 -- Juvenile fiction'
+- !lcsh 'Aristocracy (Social class) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The oak staircase : $b A narrative of the times of James II'
+url: http://www.gutenberg.org/ebooks/72455
