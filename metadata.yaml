@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '40339'
     url: http://www.gutenberg.org/2009/agents/40339
     wikipedia: https://en.wikipedia.org/wiki/James_Ayton_Symington
+covers:
+- cover_type: archival
+  image_path: 72455-h/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Lee, C. (Catherine), active 1867-1892
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '56687'
     url: http://www.gutenberg.org/2009/agents/56687
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72455#The-oak-staircase-b-A-narrative-of-the-times-of-James-II
 gutenberg_issued: '2023-12-19'
 gutenberg_type: Text
 identifiers:
